@@ -16,7 +16,7 @@ export DEPLOY_QT=1
 export DEPLOY_PIPEWIRE=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/rpcs3 /usr/share/rpcs3/*
+quick-sharun /usr/bin/rpcs3 /usr/lib/libshaderc* /usr/share/rpcs3/*
 
 # Additional changes can be done in between here
 

@@ -8,6 +8,8 @@ export ARCH VERSION
 export OUTPATH=./dist
 export ADD_HOOKS="self-updater.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
+export ICON="/usr/share/icons/hicolor/48x48/apps/rpcs3.png"
+export DESKTOP="/usr/share/applications/rpcs3.desktop"
 export DEPLOY_OPENGL=1
 export DEPLOY_VULKAN=1
 export DEPLOY_QT=1

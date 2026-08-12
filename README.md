@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest) | [Click here](https://github.com/RPCS3/rpcs3) |
+| [Click here](https://github.com/Blackfox-Thane/RPCS3-AppImage-Enhanced/releases/releases/latest) | [Click here](https://github.com/RPCS3/rpcs3) |
 
 </div>
 

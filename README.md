@@ -4,7 +4,7 @@
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/TEMPLATE-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
 [![CI Build Status](https://github.com/pkgforge-dev/TEMPLATE-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/TEMPLATE-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/TEMPLATE-AppImage)](https://github.com/Blackfox-Thane/RPCS3-AppImage-Enhanced/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/Blackfox-Thane/RPCS3-AppImage-Enhanced)](https://github.com/Blackfox-Thane/RPCS3-AppImage-Enhanced/releases/latest)
 
 <p align="center">
   <img src="https://github.com/RPCS3/rpcs3/blob/master/rpcs3/rpcs3.png" width="128" />

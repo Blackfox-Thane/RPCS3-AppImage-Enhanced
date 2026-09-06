@@ -14,7 +14,6 @@ pacman -Syu --noconfirm glew \
   qt6-multimedia \
   qt6-base \
   pugixml \
-  llvm \
   opencv \
   ffmpeg \
   sdl3 \

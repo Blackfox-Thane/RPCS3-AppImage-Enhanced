@@ -9,10 +9,6 @@ echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm glew \
   glu \
   openal \
-  qt6-base \
-  qt6-declarative \
-  qt6-multimedia \
-  qt6-base \
   pugixml \
   opencv \
   ffmpeg \

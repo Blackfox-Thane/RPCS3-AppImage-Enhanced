@@ -26,12 +26,6 @@ make-aur-package --chaotic-aur rpcs3-git
 
 # If the application needs to be manually built that has to be done down here
 
-# echo "Building RPCS3..."
-# echo "---------------------------------------------------------------"
-# git clone https://github.com/RPCS3/rpcs3.git
-# cd rpcs3
-# git submodule sync
-
 # if you also have to make nightly releases check for DEVEL_RELEASE = 1
 #
 # if [ "${DEVEL_RELEASE-}" = 1 ]; then
@@ -39,12 +33,3 @@ make-aur-package --chaotic-aur rpcs3-git
 # else
 # 	regular build steps
 # fi
-
-# mkdir ./build
-# cd ./
-# git submodule update --init --recursive
-# cmake .. \
-#   -Bbuild \
-#   -G Ninja \
-# cmake --build build
-

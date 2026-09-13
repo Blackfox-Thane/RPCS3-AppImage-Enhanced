@@ -6,16 +6,14 @@ ARCH=$(uname -m)
 
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
-pacman -Syu --noconfirm glew \
-  glu \
-  openal \
-  pugixml \
-  opencv \
-  ffmpeg \
-  sdl3 \
-  sndio \
-  jack2 \
-  vulkan-validation-layers
+# pacman -Syu --noconfirm glew \
+#   glu \
+#   openal \
+#   pugixml \
+#   opencv \
+#   ffmpeg \
+#   sdl3 \
+#   sndio \
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
